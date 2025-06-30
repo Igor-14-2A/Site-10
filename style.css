@@ -1,6 +1,6 @@
 header {
 display: flex;
-padding-top: 10em;
+padding-top: 10px;
 background-color: rgb(218, 37, 37);
 height: auto;
 text-align: center;
@@ -26,7 +26,7 @@ body {
 }
 
 .carrosel {
-    width: 600em;       /* largura desejada */
+    width: 600px;       /* largura desejada */
     height: 100%;      /* altura desejada */
     margin: auto;       /* centraliza na página */
   }
@@ -38,6 +38,6 @@ body {
   }
 
   footer {
-padding-top: 20em;;
+padding-top: 20px;
 
   }
