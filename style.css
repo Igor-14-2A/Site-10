@@ -1,5 +1,6 @@
 header {
-padding-top: 10px;
+display: flex;
+padding-top: 10em;
 background-color: rgb(218, 37, 37);
 height: auto;
 text-align: center;
@@ -15,7 +16,7 @@ a:hover {
     }
 
 .img1 {
-padding-top: 10px;
+padding-top: 1em;
 
 }
 
@@ -25,18 +26,18 @@ body {
 }
 
 .carrosel {
-    width: 600px;       /* largura desejada */
+    width: 600em;       /* largura desejada */
     height: 100%;      /* altura desejada */
     margin: auto;       /* centraliza na página */
   }
 
   .carrosel img {
-    padding-top: 20px;
+    padding-top: 20em;
     height: 100%;       /* garante que a imagem se ajuste à altura */
     object-fit: cover;  /* evita distorções */
   }
 
   footer {
-padding-top: 20px;
+padding-top: 20em;;
 
   }
