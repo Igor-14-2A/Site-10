@@ -1,0 +1,42 @@
+header {
+padding-top: 10px;
+background-color: rgb(218, 37, 37);
+height: auto;
+text-align: center;
+}
+
+a {
+      color: rgb(255, 255, 255);
+      text-decoration: none; 
+    }
+
+a:hover {
+      color: rgb(0, 0, 0); 
+    }
+
+.img1 {
+padding-top: 10px;
+
+}
+
+body {
+
+
+}
+
+.carrosel {
+    width: 600px;       /* largura desejada */
+    height: 100%;      /* altura desejada */
+    margin: auto;       /* centraliza na página */
+  }
+
+  .carrosel img {
+    padding-top: 20px;
+    height: 100%;       /* garante que a imagem se ajuste à altura */
+    object-fit: cover;  /* evita distorções */
+  }
+
+  footer {
+padding-top: 20px;
+
+  }
